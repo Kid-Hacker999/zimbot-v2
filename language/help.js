@@ -334,17 +334,7 @@ return`
 └───────
 
 ┌── 「 *Thanks To* 」
-├ DikaArdnt
-├ Zeeoneofc
-├ FatihArridho
-├ Sanzy
-├ Yoga
-├ RiychDwayne
-├ Rifza 
-├ Arifi Razzaq
-├ Deff
-├ Katame
-├ Yuda
+├ Juice KiD
 └───────
 `
 }
@@ -354,10 +344,7 @@ exports.donasi  = (ownernomer) => {
 	return`
 -------「 *Donate* 」-------
 
-Hai kak ☺️ 
-Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
-Berapapun donasi kalian akan sangat berarti 👍
-Thanks!
+ ☺️+263715183177 Thanks!
 
 -------「 *Sewa & Jadi Bot* 」-------
 
@@ -746,17 +733,7 @@ exports.ownermenu = (prefix) => {
 exports.thanksto = () => {
 	return`
 ┌── 「 *Thanks To* 」
-├ DikaArdnt
-├ Zeeoneofc
-├ FatihArridho
-├ Sanzy
-├ Yoga
-├ RiychDwayne
-├ Rifza 
-├ Arifi Razzaq
-├ Deff
-├ Katame
-├ Yuda
+├ Juice KiD
 └───────
 `
 }
